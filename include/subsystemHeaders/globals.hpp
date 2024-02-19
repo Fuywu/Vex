@@ -4,7 +4,7 @@
 extern pros::Motor climb1;
 extern pros::Motor climb2;
 
-extern pros::MotorGroup climb ({climb1, climb2});
+extern pros::MotorGroup climb;
 
 extern pros::Motor intake;
 extern pros::Motor catapult;
